@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Steps:
+1. Open KS
+2. Open project data which has test case using smart wait step
+3. Disable Smart Wait in Project > Settings > Execution > Smart Wait 
+4. Run test case and verify test case will be failed
+5. Enable Smart Wait in Project > Settings > Execution > Smart Wait
+6. Run test case again and this time verify this test case is passed.
+7. Close project data</description>
+   <name>AC-ST-5050 Support SmartWait when execution</name>
+   <tag>st;story-test;p1</tag>
+   <comment></comment>
+   <testCaseGuid>62256224-7495-4078-ae72-355dbb2a35b5</testCaseGuid>
+</TestCaseEntity>

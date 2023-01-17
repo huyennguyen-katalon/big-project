@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Steps:
+1. Input Email
+2. Enter password
+3. Click Activation button
+4. In case user activates at the first time, select No radio button and click on Continue button.
+5. Then close the dialog asking for create new project</description>
+   <name>AC-FE-5050 Online Activate by Email</name>
+   <tag>feature-test;p1</tag>
+   <comment></comment>
+   <testCaseGuid>84caa074-63da-460e-9af4-d1e70ee16ba1</testCaseGuid>
+</TestCaseEntity>

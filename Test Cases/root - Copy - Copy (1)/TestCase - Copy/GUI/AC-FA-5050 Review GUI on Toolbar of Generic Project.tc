@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Steps:
+	Verify these icons/items display on main toolbar:
+      -&quot;Save&quot;, 
+	-&quot;Save All&quot;, 
+	-&quot;Spy Web&quot;, 
+	-&quot;Record Web&quot;, 
+	-&quot;Spy Windows Object&quot;, 
+	-&quot;Create new Test Case&quot;, 
+	-&quot;Build CMD&quot;, 
+	-&quot;Stop&quot;, 
+	-&quot;Katalon TestCloud&quot;, 
+	-&quot;Katalon TestOps&quot;
+	-&quot;Git&quot;, 
+	-&quot;Spy Mobile&quot;, 
+	-&quot;Record Mobile&quot;, 
+	-&quot;Record Windows Actions&quot;, 
+	-&quot;Run (Ctrl  + Shift + A)&quot;, 
+	-&quot;Run (Ctrl + Shift + D)&quot;
+	-&quot;Keyword&quot;,
+	-&quot;Debug&quot;</description>
+   <name>AC-FA-5050 Review GUI on Toolbar of Generic Project</name>
+   <tag>fa; fast-test ; p3</tag>
+   <comment></comment>
+   <testCaseGuid>c89b5dc3-742e-402d-b6b3-2287386aa48b</testCaseGuid>
+</TestCaseEntity>

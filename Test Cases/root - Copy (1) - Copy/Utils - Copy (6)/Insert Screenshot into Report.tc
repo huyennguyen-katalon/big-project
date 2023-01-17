@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Insert Screenshot into Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5945f44-9c1e-4a00-afa7-a3897f90c3a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77874c0d-28f0-48e5-bf08-05fde27fba1c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&lt;record>\r\n  &lt;date>2022-12-22T18:01:45&lt;/date>\r\n  &lt;millis>1671706905303&lt;/millis>\r\n  &lt;sequence>38&lt;/sequence>\r\n  &lt;level>START&lt;/level>\r\n  &lt;class>com.kms.katalon.core.logging.XmlKeywordLogger&lt;/class>\r\n  &lt;method>startKeyword&lt;/method>\r\n  &lt;thread>1&lt;/thread>\r\n  &lt;message>Start action : takeScreenshot()&lt;/message>\r\n  &lt;nestedLevel>1&lt;/nestedLevel>\r\n  &lt;escapedJava>false&lt;/escapedJava>\r\n  &lt;property name=&quot;startLine&quot;>26&lt;/property>\r\n  &lt;property name=&quot;stepIndex&quot;>4&lt;/property>\r\n&lt;/record>\r\n&lt;record>\r\n  &lt;date>2022-12-22T18:01:45&lt;/date>\r\n  &lt;millis>1671706905720&lt;/millis>\r\n  &lt;sequence>40&lt;/sequence>\r\n  &lt;level>PASSED&lt;/level>\r\n  &lt;class>com.kms.katalon.core.logging.XmlKeywordLogger&lt;/class>\r\n  &lt;method>logMessage&lt;/method>\r\n  &lt;thread>1&lt;/thread>\r\n  &lt;message>Taking screenshot successfully&lt;/message>\r\n  &lt;nestedLevel>1&lt;/nestedLevel>\r\n  &lt;escapedJava>false&lt;/escapedJava>\r\n  &lt;property name=&quot;attachment&quot;>ScreenshotName.png&lt;/property>\r\n  &lt;property name=&quot;testops-method-name&quot;>com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot&lt;/property>\r\n  &lt;property name=&quot;testops-execution-stacktrace&quot;>&lt;/property>\r\n&lt;/record>\r\n&lt;record>\r\n  &lt;date>2022-12-22T18:01:45&lt;/date>\r\n  &lt;millis>1671706905721&lt;/millis>\r\n  &lt;sequence>41&lt;/sequence>\r\n  &lt;level>END&lt;/level>\r\n  &lt;class>com.kms.katalon.core.logging.XmlKeywordLogger&lt;/class>\r\n  &lt;method>endKeyword&lt;/method>\r\n  &lt;thread>1&lt;/thread>\r\n  &lt;message>End action : takeScreenshot()&lt;/message>\r\n  &lt;nestedLevel>1&lt;/nestedLevel>\r\n  &lt;escapedJava>false&lt;/escapedJava>\r\n&lt;/record>'</defaultValue>
+      <description></description>
+      <id>77874c0d-28f0-48e5-bf08-05fde27fba1c</id>
+      <masked>false</masked>
+      <name>screenshotTemplate</name>
+   </variable>
+</TestCaseEntity>
