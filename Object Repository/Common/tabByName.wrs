@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>tabByName</name>
+   <tag></tag>
+   <locator>//TabItem[@Name='${name}']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

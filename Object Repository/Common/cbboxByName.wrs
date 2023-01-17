@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>cbboxByName</name>
+   <tag></tag>
+   <locator>//ComboBox[@Name='${name}']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

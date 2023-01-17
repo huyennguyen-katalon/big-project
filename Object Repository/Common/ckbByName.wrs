@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>ckbByName</name>
+   <tag></tag>
+   <locator>//CheckBox[@Name='${name}']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

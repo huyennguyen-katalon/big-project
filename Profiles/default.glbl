@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\1KatalonStudio\\Katalon_Studio_Windows_64-8.6.0\\katalon.exe'</initValue>
+      <name>G_KatalonPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>20</initValue>
+      <name>G_StartTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>G_SleepSomeTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\1MyProjects\\Kat\\MyAutoCode\\katalon-gen4-qengineer-automation\\Data Files\\SampleProject\\SampleAPIProject'</initValue>
+      <name>G_SampleAPIProj</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\1MyProjects\\Kat\\MyAutoCode\\katalon-gen4-qengineer-automation\\Data Files\\SampleProject\\SampleWebProject'</initValue>
+      <name>G_SampleWebProject</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>G_ShortTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Folder to store the screenshot when test script runs fail</description>
+      <initValue>'D:\\'</initValue>
+      <name>G_ScreenshotFolder</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Activation email</description>
+      <initValue>''</initValue>
+      <name>G_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Activation password</description>
+      <initValue>''</initValue>
+      <name>G_Password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

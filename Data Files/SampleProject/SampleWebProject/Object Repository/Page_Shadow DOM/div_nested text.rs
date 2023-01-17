@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_nested text</name>
+   <tag></tag>
+   <elementGuidId>a962826e-18f7-4d35-a72d-c5d3948c7b92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nested_shadow_content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nested_shadow_content > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70c43db5-9087-42ac-a05e-84f3a28a0d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nested text</value>
+      <webElementGuid>e779dfc8-931b-44ed-b0ba-8b15330a5396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;nested_shadow_content&quot;]/div[1]</value>
+      <webElementGuid>206fcb4e-2dd9-49ef-bc4c-b20a2792781e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Shadow DOM/divnested_shadow_host</value>
+      <webElementGuid>757b1a6c-83bf-4785-9ab6-ced7aba66b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9948e94c-e441-4fbf-9549-de51ad0e3bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nested_shadow_content']/div</value>
+      <webElementGuid>ce2287a0-a458-420a-97bb-bb9c923d24cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='nested text']/parent::*</value>
+      <webElementGuid>cd72f270-ce0a-47ca-80d8-32323a1d2fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'nested text' or . = 'nested text')]</value>
+      <webElementGuid>37dd6932-3b01-48d0-8888-3f2de5720472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

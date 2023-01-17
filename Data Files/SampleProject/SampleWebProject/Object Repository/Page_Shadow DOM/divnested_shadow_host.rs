@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divnested_shadow_host</name>
+   <tag></tag>
+   <elementGuidId>f02adc4a-abe1-4f30-8dee-8d6b283e3511</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'nested_shadow_host']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nested_shadow_host</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f27422cd-d5cf-4262-891e-36d8202f53e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nested_shadow_host</value>
+      <webElementGuid>7701809b-2817-4daa-b7a9-d46d20bdc253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;nested_shadow_host&quot;]</value>
+      <webElementGuid>fc6688c6-e484-4e0f-96a4-15785d31416d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Shadow DOM/div_scroll.html_shadow_host</value>
+      <webElementGuid>477e9a1f-5700-4ad0-a7cb-90d427e9e5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3266fc7d-14ba-405e-b9f6-15d670090d3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nested_shadow_host']</value>
+      <webElementGuid>bfc54691-f78c-4d2c-a878-555fc61fd7cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>lblTestCaseFailed</name>
+   <tag></tag>
+   <locator>//Pane[contains(@Name,'Job Progress')]//Text[contains(@Name,'&lt;Failed>')]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>
